@@ -1,0 +1,12 @@
+{
+  "name": "superfast-cms",
+  "version": "1.0.0",
+  "description": "Superfast CMS - Pioneering the Future of Online Publishing",
+  "main": "index.html",
+  "scripts": {
+    "start": "jekyll serve"
+  },
+  "author": "Superfast CMS",
+  "license": "MIT",
+  "dependencies": {}
+}
